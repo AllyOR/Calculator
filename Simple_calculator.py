@@ -1,21 +1,29 @@
-## CALCULATOR OPTIONS
+### CALCULATOR OPTIONS
+
+print("CALCULATOR ON.")
+
 # To add two numbers
+
 def add(x, y):
     return (x + y)
 
 # To substract two numbers
+
 def substract(x, y):
     return (x - y)
 
 # To multiply two numbers
+
 def multiply(x, y):
     return (x * y)
 
 # To divide two numbers
+
 def divide(x, y):
     return (x / y)
 
 # To give power to a number
+
 def power(x, y):
     return pow(x, y)
 
@@ -25,7 +33,8 @@ print("3. Multiply")
 print("4. Divide")
 print("5. Power\n")
 
-#CALCULATOR
+### CALCULATOR
+
 flag = True
 
 while flag == True:
