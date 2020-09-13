@@ -1,6 +1,6 @@
 ### CALCULATOR OPTIONS
 
-print("CALCULATOR ON.")
+print(" CALCULATOR ON. ")
 
 # To add two numbers
 
@@ -59,7 +59,7 @@ while flag == True:
             
     elif choice == "x" or choice == "X":
         flag = False
-        print("CALCULATOR OFF.")
+        print(" CALCULATOR OFF. ")
         
     else:
-        print("Invalid input")
+        print(" Invalid Input ")
