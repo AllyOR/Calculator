@@ -27,11 +27,11 @@ def divide(x, y):
 def power(x, y):
     return pow(x, y)
 
-print("1. Add")
-print("2. Substract")
-print("3. Multiply")
-print("4. Divide")
-print("5. Power\n")
+print(" 1. Add")
+print(" 2. Substract")
+print(" 3. Multiply")
+print(" 4. Divide")
+print(" 5. Power\n")
 
 ### CALCULATOR
 
